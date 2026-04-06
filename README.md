@@ -7,13 +7,13 @@ A simple static website for Sandy Zhou, built for GitHub Pages.
 
 - `index.html` – main page
 - `styles.css` – styles
-- `data.js` – editable content
+- `data.js` – editable content (supports multi-language: EN/ZH)
 - `script.js` – rendering logic
 - `assets/` – images and favicon
 
 ## How to edit
 
-Most frequently updated content is in `data.js`, including:
+Most frequently updated content is in `data.js`. The file is structured by language keys (`en`, `zh`).
 
 - hero text
 - about paragraphs

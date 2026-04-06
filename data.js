@@ -12,7 +12,7 @@ window.siteData = {
       eyebrow: "Sandy Zhou",
       title: "Tea, culture, and mindful living",
       subtitle: "A space for tea, culture, education, and simple daily practices that bring health, calm, and balance back to life.",
-      zh: "Tea, Culture, and Mindful Living",
+      zh: "茶 · 文化 · 慢生活",
       primaryLink: "https://nas.io/",
       btnPrimary: "Book a Tea Session",
       btnSecondary: "Explore"
@@ -200,7 +200,7 @@ window.siteData = {
       eyebrow: "Sandy Zhou",
       title: "茶 · 文化 · 慢生活",
       subtitle: "一个关于茶、文化教育与正念生活的空间。通过简单的日常实践，为生活找回健康、宁静与平衡。",
-      zh: "茶 · 文化 · 慢生活",
+      zh: "Tea, Culture, and Mindful Living",
       primaryLink: "https://nas.io/",
       btnPrimary: "预约茶席",
       btnSecondary: "了解更多"

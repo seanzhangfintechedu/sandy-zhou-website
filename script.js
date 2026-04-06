@@ -160,3 +160,11 @@ menuToggle.addEventListener('click', () => {
   nav.classList.toggle('active');
   menuToggle.classList.toggle('active');
 });
+
+// Close mobile menu when a link is clicked
+document.querySelectorAll('.nav a').forEach(link => {
+  link.addEventListener('click', () => {
+    nav.classList.remove('active');
+    menuToggle.classList.remove('active');
+  });
+});
